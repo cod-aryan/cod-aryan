@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Future%20ML%20Explorer&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=52" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -11,9 +11,6 @@
 <!-- Profile Views & Followers -->
 <br/>
 <img src="https://komarev.com/ghpvc/?username=cod-aryan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/cod-aryan?tab=followers">
-  <img src="https://img.shields.io/github/followers/cod-aryan?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers"/>
-</a>
 
 </div>
 
@@ -33,7 +30,7 @@ fields_of_interest:
   - "API Design & Development"
   - "Machine Learning (upcoming)"
 
-hobbies: ["Coding", "Building Projects", "Exploring New Tech"]
+hobbies: ["Coding", "Building Projects", "Exploring New Tech", "Traiding"]
 ```
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cod-aryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" width="340"/>
@@ -156,19 +153,6 @@ hobbies: ["Coding", "Building Projects", "Exploring New Tech"]
 </div>
 
 ---
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 

@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -37,7 +36,7 @@ fields_of_interest:
 hobbies: ["Coding", "Building Projects", "Exploring New Tech"]
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cod-aryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" width="340"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cod-aryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" width="340"/>
 
 - 🔭 Currently working on **DSA & Problem Solving**
 - 🌱 Learning **Advanced Algorithms & System Design**
@@ -121,8 +120,8 @@ hobbies: ["Coding", "Building Projects", "Exploring New Tech"]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cod-aryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=cod-aryan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cod-aryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=cod-aryan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -137,7 +136,7 @@ hobbies: ["Coding", "Building Projects", "Exploring New Tech"]
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cod-aryan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="98%"/>
+  <img src="https://github-trophies.vercel.app/?username=cod-aryan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="98%"/>
 </div>
 
 ---
@@ -153,14 +152,8 @@ hobbies: ["Coding", "Building Projects", "Exploring New Tech"]
 
 <!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cod-aryan/cod-aryan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cod-aryan/cod-aryan/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/cod-aryan/cod-aryan/output/github-snake-dark.svg" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
-
-> **Note:** To enable the snake animation, add a GitHub Actions workflow. See [snk](https://github.com/Platane/snk) for setup instructions.
 
 ---
 

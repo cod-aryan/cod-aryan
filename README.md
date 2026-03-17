@@ -138,15 +138,6 @@ hobbies: ["Coding", "Building Projects", "Exploring New Tech", "Traiding"]
 
 ---
 
-<!-- Top Contributed Repo -->
-## 🔝 **Top Contributed Repos**
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=cod-aryan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="60%"/>
-</div>
-
----
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>

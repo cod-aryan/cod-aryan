@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20DevOps%20%7C%20AI%20Engineering%20Student&descSize=16&descAlignY=52" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%A9;Exploring+AI%2FML+Soon+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+production+software+%F0%9F%9A%80;MERN,+Next.js+%26+DevOps+%F0%9F%92%BB;GWOC+Winner+%7C+Open+Source+%E2%9C%A8;300%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;AI%2FML+Engineering+Student+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views & Followers -->
@@ -20,28 +20,28 @@
 ```yaml
 name: Aryan Jain
 located_in: India
-current_focus: "DSA & Full-Stack Development"
-learning: ["Data Structures & Algorithms", "System Design"]
-next_adventure: "AI / Machine Learning"
+current_focus: "Full-Stack Development & DevOps Architecture"
+learning: ["Docker", "Nginx", "Microservices", "System Design"]
+portfolio: "codaryan.in"
 
 fields_of_interest:
-  - "Full-Stack Web Development"
-  - "Problem Solving & Competitive Programming"
-  - "API Design & Development"
-  - "Machine Learning (upcoming)"
+  - "Production-grade Web Apps"
+  - "Containerization & DevOps"
+  - "Secure API Design"
+  - "Artificial Intelligence"
 
-hobbies: ["Coding", "Building Projects", "Exploring New Tech", "Traiding"]
+achievements: ["GWOC 2026 Winner (MindSettler)", "300+ LeetCode Problems"]
 ```
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cod-aryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" width="340"/>
 
-- 🔭 Currently working on **DSA & Problem Solving**
+- 🔭 Currently working on Production-grade Web Apps & DevOps Infrastructure
 - 🌱 Learning **Advanced Algorithms & System Design**
 - 👨‍💻 Strong in **Full-Stack Web Development**
 - 🤝 Open to collaborate on **Web Apps, APIs & ML Projects**
 - 🚀 Future Goal: **Build Intelligent ML Applications**
 - 💬 Ask me about **JavaScript, React, Next.js, Node.js, MySQL**
-- 📫 Reach me at **aryan.hmt1234@gmail.com**
+- 📫 Reach me at **aryan.hmt1234@gmail.com** or my portfolio [**codaryan.in**](https://codaryan.in)
 
 <br clear="both"/>
 
